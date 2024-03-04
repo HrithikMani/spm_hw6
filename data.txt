@@ -1,0 +1,24 @@
+Number of Sprint Days: 10 days
+
+Team Member Details:
+
+Member 1:
+Days off: 1 day
+Hours committed to sprint ceremonies: 4 hours
+Available hours per day: 6-8 hours
+Member 2:
+Days off: 2 days
+Hours committed to sprint ceremonies: 5 hours
+Available hours per day: 7-9 hours
+Member 3:
+Days off: 0 days
+Hours committed to sprint ceremonies: 3 hours
+Available hours per day: 8-10 hours
+Member 4:
+Days off: 1 day
+Hours committed to sprint ceremonies: 4 hours
+Available hours per day: 5-7 hours
+Member 5:
+Days off: 2 days
+Hours committed to sprint ceremonies: 5 hours
+Available hours per day: 6-8 hours
